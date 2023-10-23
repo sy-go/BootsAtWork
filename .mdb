@@ -1,0 +1,9 @@
+{
+  "projectName": "gozpage",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "8ea74f1a",
+  "domain": "gozpage.mdbgo.io"
+}
